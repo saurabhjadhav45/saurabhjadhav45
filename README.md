@@ -8,7 +8,7 @@ Frontend Developer
 
 *   🌍  I'm based in Pune, India.
 *   ✉️  You can contact me at [saurabhvj16@gmail.com](mailto:saurabhvj16@gmail.com)
-*   👨‍💻  Portfolio: [saurabhjadhav.dev](www.saurabhjadhav.dev)
+*   👨‍💻  Portfolio: [saurabhjadhav.dev](https://www.saurabhjadhav.dev)
 *   📫 Reach me:
     *  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saurabhvj16)
       [![Instagram](https://img.shields.io/badge/--0A1A2F?style=social&logo=Instagram)](https://www.instagram.com/saurabh_v_j45)
